@@ -1,3 +1,3 @@
 # Snowbunny
-testing new repository<br>
-figuring this thing out
+Testing new repository<br>
+Figuring this thing out
